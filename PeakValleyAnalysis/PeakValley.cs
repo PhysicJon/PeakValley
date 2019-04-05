@@ -9,7 +9,7 @@ namespace PeakValleyAnalysis
 		/// <summary>
 		/// Checks for number of Peaks and Valleys in integer array
 		/// </summary>
-		/// <param name="A">Array of integers (unsigned)</param>
+		/// <param name="A">Array of integers</param>
 		/// <returns>int array containing { total, peaks, valleys }</returns>
 		public int[] PeakValleyDetect(int[] A)
 		{
